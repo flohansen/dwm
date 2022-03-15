@@ -2,6 +2,7 @@
 
 /* appearance */
 static const unsigned int wmargin   = 20;       /* top, left, right and bottom margin of windows */
+static const unsigned int barpad    = 10;       /* padding of the bar */
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
